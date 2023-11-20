@@ -86,3 +86,9 @@ footer{
    background: url("bg.jpg");
    text-align: center;
 }
+
+.branco{
+   color: #FFFFFF;
+   font-size: 16px;
+   margin: 30px 0 0;
+}
